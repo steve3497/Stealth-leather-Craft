@@ -1,0 +1,18 @@
+Stealth Leather Craft India — image paths in use
+
+BRAND (already in the repo)
+  assets/images/brand/sl-logo-light.svg   Nav, banner, footer
+  assets/images/brand/sl-logo.png         Open Graph / social preview
+  assets/images/brand/mallet.svg          Banner scroll icon
+  assets/images/brand/favicon.png         Favicon
+
+BANNER (already in the repo)
+  assets/images/banner/hero-banner.jpg
+
+PRODUCTS (drop photos here; placeholders show until files exist)
+  assets/images/products/edc-wallet-01.jpg
+  assets/images/products/key-fob-01.jpg
+  assets/images/products/watch-strap-01.jpg
+
+WORKSHOP
+  assets/images/workshop/maker.jpg
