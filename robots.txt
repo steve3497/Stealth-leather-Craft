@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-USERNAME.github.io/MySiteStealth/sitemap.xml
+Sitemap: https://stealthleathercrafts.in/sitemap.xml
